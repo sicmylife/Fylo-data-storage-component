@@ -242,10 +242,11 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
-  color: #a8eb12;
+  color: white;
 }
 
 .attribution a {
-  color: white;
+  color: #a8eb12;
+  font-weight: bold;
 }
 /*# sourceMappingURL=style.css.map */
